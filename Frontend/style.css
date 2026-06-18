@@ -1,0 +1,12 @@
+/* div{
+    text-align: center;
+    background-color: rgb(143, 138, 216);
+} */
+.login-container{
+    background-color: beige;
+    text-align: center;
+}
+.register-container{
+    background-color: rgb(119, 213, 191);
+    text-align: center;
+}
