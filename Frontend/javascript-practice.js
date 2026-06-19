@@ -49,3 +49,35 @@
  }else{
     console.log("cannot drive")
  }
+ let arr=["apple","mango","banana","grapes"]
+ for(let name of arr){
+    console.log(name)
+ }
+ const obj={
+    name:"samsung",
+    desc:"stylish phone",
+    price:25000
+ }
+ for(let mobile in obj){
+    console.log(obj[mobile])
+ }
+const arr2=[{
+    name:"vivo",
+    desc:"stylish phone",
+    price:28000
+ },{
+    name:"oppo",
+    desc:"stylish phone",
+    price:27000
+ },{
+    name:"realeme",
+    desc:"phonr",
+    price:35000
+ }]
+ for(let mobile of arr2){
+    for(let details in mobile){
+        console.log( mobile[details])
+    }
+ }
+
+ 
