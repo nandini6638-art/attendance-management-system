@@ -36,3 +36,16 @@
  else{
     console.log(c)
  }
+ //person having driving license or not
+ const age=18
+ const hasLicence=true;
+ if(age>=18){
+    if(hasLicence){
+        console.log("can drive")
+    }
+    else{
+        console.log("Take licence")
+    }
+ }else{
+    console.log("cannot drive")
+ }
