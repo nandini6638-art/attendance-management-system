@@ -4,6 +4,6 @@
 } */
 .login-container,.register-container{
     text-align: center;
-    background-color: beige;
-    width: 300px;
+    background-color: rgb(152, 181, 209);
+    width: 500px;
 }
