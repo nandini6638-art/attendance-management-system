@@ -87,6 +87,31 @@ x(y) -->
 *function x allowing another funtion y as a parameter,x is higher order function
 *the function which is acting like paramer ie y is callback function
 
+# Array Methos
+ **Add/remove methods**
+  *push()-automatically it add an element in last and return the size of the array
+  *pop()
+  *shift()
+  *unshift()
+  *splice()-array.splice(start,deleteCount,item1,item2..)
+           -it is used for add elements ,remove elements,replace elements
+**Searching methods**
+  *includes()
+  *indexOf()
+  *find()
+  *findIndex()  
+**Iteration methods**
+  *forEach()
+  *map() (imp)
+  *filter() (imp)
+**Transformation methods**
+  *reduce() //imp
+  *sort()  //imp
+  *reverse()
+# DOM(Document object model)
+  
+
+
 
 
 
