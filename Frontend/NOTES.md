@@ -109,7 +109,45 @@ x(y) -->
   *sort()  //imp
   *reverse()
 # DOM(Document object model)
-  
+# event handling
+ *click event(onclick)
+ *double click event(ondbclick)
+ *mouse hover event(onmouseover)
+# REACT JS
+ *open source js library
+ *devoloped by facebook
+ *it allow user to create modern web applications using reusable components
+*React slove problems like*
+ *reusable components
+ *vitual DOM
+ *better performance than java script
+ *easy maintanence
+ *faster devolpment  
+**Features of react**
+  *Component based architecture
+  *Virtual DOM
+  *JSX(java script xml)
+  *One way data flow
+  *Reusable code
+  *Fast rendering 
+*React supports single page application*
+ ex:index.html
+ in that only we update the content without refershing the entire page
+
+*Virtual DOM*
+ *java script representation of real DOM
+ *react doesnot updates the real DOM directly,instead it updates the virtual DOM first
+ *process of comparing old and new virtual DOM to identify the exact changes needed to be applied on real DOM is called diffing
+ *The process by which react updates the real DOM effinciently after diffing by applying the only necessary chages
+*JSX(JavaScript Extensible Markup Language)*
+ *JSX is combination of js and html
+ *we use a compiler which is babel
+ **Rules**
+   *one parent element
+   *className instead of class
+   *javaScript inside{}  
+
+
 
 
 
